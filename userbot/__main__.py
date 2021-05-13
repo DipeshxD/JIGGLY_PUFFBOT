@@ -34,9 +34,9 @@ else:
             api_hash=Var.API_HASH
         ).start(bot_token=Var.TG_BOT_TOKEN_BF_HER)
         print("Initialisation finished with no errors")
-        print("Starting MafiaBot")
+        print("Starting D3vilBot")
         bot.loop.run_until_complete(add_bot(Var.TG_BOT_USER_NAME_BF_HER))
-        print("MafiaBot Startup Completed")
+        print("D3VILBot Startup Completed")
     else:
         bot.start()
 
@@ -52,7 +52,7 @@ for name in files:
 
 import userbot._core
 
-print(f"""MAFIABOT IS ON!!! MAFIABOT VERSION :- {mafiaversion} YOUR 𝕄𝔸𝔽𝕀𝔸𝔹𝕆𝕋 IS READY TO USE! FOR CHECK YOUR BOT WORKING OR NOT PLEASE TYPE (.alive/.ping) ENJOY YOUR BOT! JOIN FOR MORE FUTURE UPDATES @MafiaBot_Support .""")
+print(f"""D3VIL BOT IS ON!!! D3VILBOT VERSION :- {mafiaversion} YOUR 𝔻3𝕍𝕀𝕃𝔹𝕆𝕋 IS READY TO USE! FOR CHECK YOUR BOT WORKING OR NOT PLEASE TYPE (.alive/.ping) ENJOY YOUR BOT! JOIN FOR MORE FUTURE UPDATES @D3VIL_BOT_SUPPORT .""")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
