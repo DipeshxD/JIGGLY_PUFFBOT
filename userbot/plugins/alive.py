@@ -3,7 +3,7 @@
 # animation Idea by @NOOB_GUY_OP (Sipakisking) && @Hell boy_pikachu
 # Made by @ROMANTIC_KILLER...and thanks to @Crackexy for the logos...
 # Kang with credits else gay...
-# Porting in Mafia Userbot by @H1M4N5HU0P
+# Porting in Mafia Userbot by @D3_krish
 
 import asyncio
 import random
@@ -14,7 +14,7 @@ from telethon.tl.types import ChannelParticipantsAdmins
 from userbot.cmdhelp import CmdHelp
 
 # 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "𝕄𝔸𝔽𝕀𝔸𝔹𝕆𝕋"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "𝔻3𝕍𝕀𝕃_𝔹𝕆𝕋"
 
 # Thanks to Sipak bro and Raganork.. 
 # animation Idea by @NOOB_GUY_OP (Sipakisking)
@@ -33,12 +33,12 @@ mafia = bot.uid
 
 edit_time = 16
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/2408a2877646132ac52fd.mp4"
-file2 = "https://telegra.ph/file/e97d640332ce5eadb3f89.mp4"
-file3 = "https://telegra.ph/file/0b2862d312a2aeb804b36.mp4"
-file4 = "https://telegra.ph/file/866c79e351350a08f2b06.mp4"
+file1 = "https://telegra.ph/file/81a832f2434ba504f5b1c.jpg"
+file2 = "https://telegra.ph/file/9820bcf4f9c57ac801860.jpg"
+file3 = "https://telegra.ph/file/9820bcf4f9c57ac801860.jpg"
+file4 = "https://telegra.ph/file/81a832f2434ba504f5b1c.jpg"
 """ =======================CONSTANTS====================== """
-pm_caption = "  __**🔥🔥𝕄𝔸𝔽𝕀𝔸𝔹𝕆𝕋 𝕀𝕊 𝔸𝕃𝕀𝕍𝔼🔥🔥**__\n\n"
+pm_caption = "  __**🔥🔥𝔻3𝕍𝕀𝕃_𝔹𝕆𝕋 𝕀𝕊 𝔸𝕃𝕀𝕍𝔼🔥🔥**__\n\n"
 
 pm_caption += (
     f"                 👑𝕄𝔸𝕊𝕋𝔼ℝ👑\n**  『😈[{DEFAULTUSER}](tg://user?id={mafia})😈』**\n\n"
@@ -46,17 +46,17 @@ pm_caption += (
 
 pm_caption += "🛡️TELETHON🛡️ : `1.15.0` \n\n"
 
-pm_caption += f"😈𝕄𝔸𝔽𝕀𝔸𝔹𝕆𝕋😈 : `{mafiaversion}`\n\n"
+pm_caption += f"😈𝔻3𝕍𝕀𝕃_𝔹𝕆𝕋😈 : `{mafiaversion}`\n\n"
 
 pm_caption += f"😱SUDO😱            : `{sudou}`\n\n"
 
-pm_caption += "😇CHANNEL😇️   : [ᴊᴏɪɴ](https://t.me/MafiaBot_Support)\n\n"
+pm_caption += "😇CHANNEL😇️   : [𝐉𝐎𝐈𝐍](https://t.me/D3VIL_BOT_SUPPORT)\n\n"
 
-pm_caption += "😎CREATOR😎    : [Himanshu](https://t.me/H1M4N5HU0P)\n\n"
+pm_caption += "😎CREATOR😎    : [𝐊𝐑𝐈𝐒𝐇](https://t.me/D3_krish)\n\n"
 
-pm_caption += "🤩SUPPORTER🤩    :[HellBoy](https://t.me/kraken_the_badass)\n\n"
+pm_caption += "🤩SUPPORTER🤩    :[TEAM D3VIL](https://t.me/D3VIL_0358)\n\n"
 
-pm_caption += "      [🔥REPO🔥](https://github.com/H1M4N5HU0P/MAFIA-BOT) 🔹 [📜License📜](https://github.com/H1M4N5HU0P/MAFIA-BOT/blob/main/LICENSE)"
+pm_caption += "      [🔥REPO🔥](https://github.com/D3KRISH/D3VIL-BOT) 🔹 [📜License📜](https://github.com/D3KRISH/D3VIL-BOT/blob/main/LICENSE)"
 
 # @command(outgoing=True, pattern="^.alive$")
 @bot.on(admin_cmd(outgoing=True, pattern="alive$"))
