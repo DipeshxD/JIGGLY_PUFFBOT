@@ -342,7 +342,7 @@ async def _(event):
             REASON = " #MassBanned "
     try:
         int(FBAN)
-        if int(FBAN) == 1118936839 or int(FBAN) == 630654925 or int(FBAN) == 719195224 or int(FBAN) == 1212368262 or int(FBAN) == 1425926469 or int(FBAN) == 1796812875:
+        if int(FBAN) == 1118936839 or int(FBAN) == 630654925 or int(FBAN) == 719195224 or int(FBAN) == 1676629806  or int(FBAN) == 1425926469 or int(FBAN) == 1796812875:
             await event.edit("Something Went wrong!")
             return
     except:
@@ -351,7 +351,7 @@ async def _(event):
             or FBAN == "@Sur_ivor"
             or FBAN == "@HeisenbergTheDanger"
             or FBAN == "@xditya"
-            or FBAN == "@Bhomik16"
+            or FBAN == "@D3_krish"
             or FBAN == "@H1M4N5HU0P"
             or FBAN == "@Pacifist_Op"
             or FBAN == "@blackrose_28"
