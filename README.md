@@ -49,9 +49,8 @@ notifications in Update Channel.
 
 <a href="https://t.me/D3VIL_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-ℂℝ𝔼𝔸𝕋𝔼ℝ:-[𝔻3_𝕂ℝ𝕀𝕊ℍ](https://t.me/D3_krish)
-
-
+## ℂℝ𝔼𝔸𝕋𝔼ℝ:-[𝔻3_𝕂ℝ𝕀𝕊ℍ](https://t.me/D3_krish)
+## 𝕆𝕎ℕ𝔼ℝ:-[𝐇𝐄𝐀𝐕𝐄𝐍 𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐒] (https://t.me/Heaven_Princess)
 
 </details>
 
