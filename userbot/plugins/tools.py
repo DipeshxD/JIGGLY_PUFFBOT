@@ -17,7 +17,7 @@ from userbot import CMD_HELP
 from mafiabot.utils import admin_cmd, edit_or_reply, sudo_cmd
 from userbot.cmdhelp import CmdHelp
 
-#==================MafiaBot==================
+#==================D3vilBot==================
 
 @bot.on(admin_cmd(pattern="scan ?(.*)"))
 @bot.on(sudo_cmd(pattern="scan ?(.*)", allow_sudo=True))
@@ -181,7 +181,7 @@ async def make_qr(makeqr):
     )
     qr.add_data(message)
     qr.make(fit=True)
-    img = qr.make_image(fill_color="black", back_color="white")
+    img = qr.make_image(fill_color="blue", back_color="white")
     img.save("img_file.webp", "PNG")
     await makeqr.client.send_file(
         makeqr.chat_id, "img_file.webp", reply_to=reply_msg_id
