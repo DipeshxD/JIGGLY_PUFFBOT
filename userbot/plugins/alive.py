@@ -50,7 +50,7 @@ pm_caption += f"😈𝔻3𝕍𝕀𝕃_𝔹𝕆𝕋😈 : `{mafiaversion}`\n\n"
 
 pm_caption += f"😱SUDO😱            : `{sudou}`\n\n"
 
-pm_caption += "😇CHANNEL😇️   : [𝐉𝐎𝐈𝐍](https://t.me/D3VIL_BOT_SUPPORT)\n\n"
+pm_caption += "😇USERBOT_GROUP😇️   : [𝐉𝐎𝐈𝐍](https://t.me/D3VIL_BOT_SUPPORT)\n\n"
 
 pm_caption += "😎CREATOR😎    : [𝐊𝐑𝐈𝐒𝐇](https://t.me/D3_krish)\n\n"
 
