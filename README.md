@@ -15,7 +15,7 @@
 
 <details>
 
-  • INSTALLING • 
+ <summary> • INSTALLING •<\h4> </summary>
 
 ### The Easy Way
 
@@ -30,9 +30,8 @@
 <details>
   <summary> <h4>Credits 🏅</h4> </summary>
 
-• [JaaduBot](https://github.com/Amberyt/JaaduBot)
 
-• [Uniborg](https://github.com/spechide/uniborg)
+• [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIA-USERBOT)
 
 • [Hêllẞø†](https://github.com/thevaders/vader)
 
