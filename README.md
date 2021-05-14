@@ -15,7 +15,7 @@
 
 <details>
 
-  <summary> • INSTALLING • </summary>
+  • INSTALLING • 
 
 ### The Easy Way
 
