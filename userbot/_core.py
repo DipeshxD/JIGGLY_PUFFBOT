@@ -7,7 +7,7 @@ from telethon import functions, types
 from telethon.tl.types import InputMessagesFilterDocument
 from mafiabot.utils import *
 from userbot import *
-from userbot import bot as d3vilbot
+from userbot import bot as mafiabot
 
 DELETE_TIMEOUT = 5
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Mafia User"
