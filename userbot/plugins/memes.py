@@ -623,7 +623,7 @@ async def vapor(vpr):
 @bot.on(sudo_cmd(pattern=f"repo", allow_sudo=True))
 async def source(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await edit_or_reply(e, "Click [here](https://github.com/D3KRISH/D3VIL-BOT) to open this 🔥**Lit AF!!**🔥 __D3VILBOT__ Repo.. Join channel :- @D3VIL_BOT_SUPPORT)
+        await edit_or_reply(e, "Click [here](https://github.com/D3KRISH/D3VIL-BOT) to open this 🔥**Lit AF!!**🔥 __D3VILBOT__ Repo.. Join channel :- @D3VIL_BOT_SUPPORT")
 
 
 @bot.on(admin_cmd(pattern="str(?: |$)(.*)", outgoing=True))
