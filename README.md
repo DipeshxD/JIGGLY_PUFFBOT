@@ -13,6 +13,10 @@
 
 # FORK AT YOUR OWN RISK
 
+<a href="https://t.me/D3VIL_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20GROUP-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/joinchat/FNgu5eTO7jE1OWNl"><img src="https://img.shields.io/badge/Join-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
 <details>
 
  <summary> • INSTALLING •  </summary>
