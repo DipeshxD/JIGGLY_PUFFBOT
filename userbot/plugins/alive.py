@@ -116,5 +116,5 @@ async def amireallyalive(alive):
 CmdHelp("alive").add_command(
   "alive", None, "To check am i alive"
 ).add_command(
-  "mafia", None, "To check am i alive with your favorite alive pic"
+  "d3vil", None, "To check am i alive with your favorite alive pic"
 ).add()
