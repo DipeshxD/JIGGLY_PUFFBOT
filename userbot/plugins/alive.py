@@ -35,7 +35,7 @@ edit_time = 16
 """ =======================CONSTANTS====================== """
 file1 = "https://telegra.ph/file/81a832f2434ba504f5b1c.jpg"
 file2 = "https://telegra.ph/file/9820bcf4f9c57ac801860.jpg"
-file3 = "https://telegra.ph/file/9820bcf4f9c57ac801860.jpg"
+file3 = "https://telegra.ph/file/c42d5eddd24a9e6acd576.jpg"
 file4 = "https://telegra.ph/file/81a832f2434ba504f5b1c.jpg"
 """ =======================CONSTANTS====================== """
 pm_caption = "  __**🔥🔥𝔻3𝕍𝕀𝕃_𝔹𝕆𝕋 𝕀𝕊 𝔸𝕃𝕀𝕍𝔼🔥🔥**__\n\n"
