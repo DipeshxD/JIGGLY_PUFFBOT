@@ -15,7 +15,7 @@
 
 <details>
 
- <summary> • INSTALLING • <\h4> </summary>
+ <summary> • INSTALLING •  </summary>
 
 ### The Easy Way
 
