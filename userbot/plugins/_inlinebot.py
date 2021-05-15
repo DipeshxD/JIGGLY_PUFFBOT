@@ -98,7 +98,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
                 text="""**Hey! This is [D3VIL BOT.](https://t.me/D3VIL_BOT_SUPPORT) \nYou can know more about me from the links given below 👇**""",
                 buttons=[
                     [
-                        custom.Button.url("🔥 CHANNEL 🔥", "https://t.me/D3VIL_SUPPORT"),
+                        custom.Button.url("🔥 CHANNEL 🔥", "https://t.me/joinchat/FNgu5eTO7jE1OWNl"),
                         custom.Button.url(
                             "⚡ GROUP ⚡", "https://t.me/D3VIL_BOT_SUPPORT"
                         ),
