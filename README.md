@@ -5,7 +5,7 @@
 <h1 align="center">😈 𝙳3𝚅𝙸𝙻 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 😈</h1>
 
 
-[![𝙳3𝚅𝙸𝙻 LOGO](https://telegra.ph/file/9820bcf4f9c57ac801860.jpg)](https://t.me/D3VIL_BOT_SUPPORT)
+[![𝙳3𝚅𝙸𝙻 LOGO](https://telegra.ph/file/c42d5eddd24a9e6acd576.jpg)](https://t.me/D3VIL_BOT_SUPPORT)
 
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
