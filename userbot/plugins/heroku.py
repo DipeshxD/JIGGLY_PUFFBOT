@@ -22,7 +22,7 @@ HEROKU_API_KEY = Config.HEROKU_API_KEY
 
 Heroku = heroku3.from_key(Var.HEROKU_API_KEY)
 heroku_api = "https://api.heroku.com"
-mafia_logo = ".HIM4N5HUOP/IMG_20210515_183221_279.jpg"
+mafia_logo = "HIM4N5HUOP/IMG_20210515_183221_279.jpg"
 
 
 @borg.on(
