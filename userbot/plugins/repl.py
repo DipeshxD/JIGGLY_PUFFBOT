@@ -13,6 +13,6 @@ from telethon import events
 @borg.on(admin_cmd(pattern="repl ?(.*)"))
 async def _(event):
      if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
-        await event.edit("Click [here](https://replit.com/@D3krish/D3VILSTRINGSESSION-1#main.py) to open this 🔥**Lit AF!!**🔥 **D3VIL BOT** sting.. Join channel :- @D3VIL_SUPPORT Repo Uploaded By @D3_krish")
+        await event.edit("Click [here](https://replit.com/@D3krish/D3VILSTRINGSESSION-1#main.py) to open this 🔥**Lit AF!!**🔥 **D3VIL BOT** string.. Join channel :- @D3VIL_SUPPORT string Uploaded By @D3_krish")
     
         
